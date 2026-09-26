@@ -13,7 +13,7 @@ const outfit = Outfit({
   variable: "--font-outfit",
   subsets: ["latin"],
 });
-
+export const dynamic = "force-dynamic";
 export const metadata = {
   title: "Superchat Nepal",
   description: "Donation platform for Nepali streamers",
